@@ -105,5 +105,18 @@
 body {
   width: 100vw;
   height: 100vh;
-  overflow: hidden; }
+  overflow: hidden;
+  font-family: 'Righteous', cursive; }
+
+.starwars {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 800px;
+  -webkit-perspective: 400px;
+          perspective: 400px;
+  color: #fff017; }
 /*# sourceMappingURL=style.css.map */

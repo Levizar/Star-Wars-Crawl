@@ -4,5 +4,13 @@ body{
     width: 100vw;
     height: 100vh;
     overflow: hidden;
+    font-family: 'Righteous', cursive;
 }
 
+.starwars{
+    display: flex;
+    justify-content: center;
+    height: 800px;
+    perspective: 400px;
+    color: #fff017;
+}
